@@ -16,6 +16,7 @@ public class Main {
         ocpSetup.example1();   //ex1
         ocpSetup.example2();   //ex2
 
+
         //LSP
         SetupLSP setupLSP = new SetupLSP();
         setupLSP.insertPosts();
